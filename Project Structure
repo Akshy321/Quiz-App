@@ -1,0 +1,6 @@
+quiz_app/
+│── lib/
+│   ├── main.dart          # Main quiz logic & UI
+│── pubspec.yaml           # Dependencies
+│── README.md              # Documentation
+│── .gitignore             # Ignore unnecessary files
